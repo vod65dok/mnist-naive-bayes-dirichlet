@@ -1,1 +1,0 @@
-# mnist-naive-bayes-dirichlet
